@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vue-sweetalert": "^0.1.18"
+  }
+}
